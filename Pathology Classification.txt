@@ -1,0 +1,18 @@
+What are the uses of Computer Vision?
+Computer vision is a broad term for many projects with the use 
+of deep neural networks to develop human-like vision capabilities 
+for various applications. Today, computer vision has immense potential 
+in real-world applications spanning retail, banking, construction, sports, 
+automotive, agriculture, insurance, and beyond. Some use cases involve computer
+ vision projects that positively impact the world into a better place.
+
+New Computer Vision Projects 
+1. Pathology Classification
+The amount of data pathologists need to analyze in 
+a day is massive and challenging. Deep learning algorithms
+ can identify patterns in large amounts of data. Optical coherence 
+tomography (OCT) uses light waves to look inside a living human body. 
+It can detect various diseases in humans, plants, and animals. Evaluation 
+of issues like thinning skin, broken blood vessels, heart diseases, and many 
+other medical problems is possible.
+
